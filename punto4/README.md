@@ -19,20 +19,31 @@ La idea es procesar un archivo con muchas cadenas y medir cuánto tarda cada imp
 1. En C (lenguaje compilado)
 Compilar:
 ```
-gcc afd.c -o afd
+gcc punto4.c 
 ```
 Ejecutar:
 
 ```
-./afd cadenas.txt
+./a.out cadenas.txt
 ```
 
 2. En Python (lenguaje interpretado)
 Ejecutar:
 ```
-python3 afd.py cadenas.txt
+python3 punto4.py cadenas.txt
 ```
 
 ## Ejemplo y Resultados 
 
 a continucacionse presenta las ejecuciones de los codigos con los resultados correspondientes 
+
+Estos fueron los resultados de python:
+
+<img width="416" height="109" alt="image" src="https://github.com/user-attachments/assets/4303491e-38fa-495c-8726-0a106675bd06" />
+
+Estos fueron los resultados para c
+
+<img width="404" height="161" alt="image" src="https://github.com/user-attachments/assets/961e3cab-f2c4-4064-a046-3242a2567cda" />
+
+**Si bien los tiempos fueron cortos, que fue debido a que las cadenas a texto a realzar ern demasiada pequeñas, se nota una diferencia de timepo, para eso vamos a poner una cadena mucho más larga, ppara que ambos se demoren mas tiempo en analizarla**
+
