@@ -35,5 +35,8 @@ Ejemplos no válidos:
 En el codigo se puede ver implementado el AFD con la gramatica aceptando o no unos ejemplo de pruebas que se puso en el codigo
 ## ejecucion
 ```
-  python3 punto3.py
+  python3 punto.py
 ```
+<img width="349" height="195" alt="Screenshot From 2025-09-03 14-25-08" src="https://github.com/user-attachments/assets/51ff7018-9260-4f2d-b589-237492ba844f" />
+
+
