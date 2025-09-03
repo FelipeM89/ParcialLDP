@@ -2,7 +2,7 @@
 
 El lenguaje son todas las cadenas que cumplen la forma:
 
-**a* b* c**
+**(a* b* c*)**
 
 - Cero o más a.
 
