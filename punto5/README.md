@@ -9,6 +9,7 @@ y genera como salida la secuencia de Fibonacci hasta el número indicado.
 
 ## Instalación y preparación
 
+Crea su entorno virtual 
 
 ```
 python3 -m venv venv
@@ -35,6 +36,3 @@ python main.py
 ```
 ## **EjemploDeUso**
 <img width="636" height="454" alt="image" src="https://github.com/user-attachments/assets/f46dc3c0-abd7-41dc-a84c-b4075e67f3bf" />
-
-
-
