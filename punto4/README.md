@@ -47,3 +47,7 @@ Estos fueron los resultados para c
 
 **Si bien los tiempos fueron cortos, que fue debido a que las cadenas a texto a realzar ern demasiada pequeñas, se nota una diferencia de timepo, para eso vamos a poner una cadena mucho más larga, ppara que ambos se demoren mas tiempo en analizarla**
 
+
+<img width="418" height="215" alt="image" src="https://github.com/user-attachments/assets/d42a149a-5d58-4548-93d4-389492c55783" />
+
+**Con una cadena aun más larga se ve la diferencia de tiempo, es mas rapido c que python, debido a que  c etiene más alta velocidad de ejecución, mejor uso de recursos y necesita un paso previo de compilación. mientras que python es mas lento porque se intrepeta en tiempo real
